@@ -51,3 +51,91 @@ A <a href="https://discord.gg/pe5tyHDwv9">Progra{Maria}</a> é uma iniciativa qu
 ### STEM for women
 <a href="https://discord.gg/yA6jBv9arm">STEM for women</a> é uma comunidade que promove uma maior representativade feminina nas áreas de Ciência, Tecnologia, Engenharia e Matemática.
 <p>Tem canais de anúncios, divulgações, apresentações, estudos no Brasil e no exterior, jogos, bate papo, clube de estudos e mais.</p>
+
+--- 
+
+# Colaborando com a Lista de Servidores Discord 🤝 💡
+
+🫵 Que tal ajudar a comunidade a encontrar servidores incríveis? 🙋‍♂️ Estamos sempre abertos a novas contribuições para tornar essa lista ainda mais completa e organizada.
+
+**Como Contribuir:**
+
+1. **Faça um Fork:**
+   Crie sua própria cópia do repositório: `https://github.com/haaveeni/servidores-tech-discord`
+
+2. **Clone Localmente:**
+   Baixe o repositório para o seu computador:
+   ```bash
+   git clone https://github.com/haaveeni/servidores-tech-discord.git
+   ```
+
+3. **Crie uma Nova Branch:**
+   Isole suas alterações em uma nova branch:
+   ```bash
+   git checkout -b adicionar-novo-servidor
+   ```
+
+4. **Edite o Arquivo:**
+   Adicione um novo servidor no formato:
+
+   ```
+   Nome do Servidor: <nome do servidor>
+   Link: <link do servidor>
+   Descrição: <descrição do servidor>
+   ```
+
+   **Exemplo:**
+   ```
+   Nome do Servidor: Comunidade de Games
+   Link: https://discord.gg/games
+   Descrição: Um lugar para gamers de todos os tipos.
+   ```
+
+   **COMO GERAR O LINK DE CONVITE DO SERVIDOR QUE NÃO EXPIRA?**
+  <p>Clique na seta ao lado do nome do servidor, clique em Invite People, clique em Edit invite link, selecione a opção Never, clique no botão Generate a new link, clique no botão Copy</p>
+  <p>Passo a passo no vídeo:</p>
+
+https://github.com/user-attachments/assets/a7ae5f5d-f927-4730-a6b6-b85c4b50f2c4
+
+6. **Commit e Push:**
+   Salve suas alterações e envie-as para o seu fork:
+   ```bash
+   git add .
+   git commit -m "Adicionei o servidor Comunidade de Games"
+   git push origin adicionar-novo-servidor
+   ```
+
+7. **Abra um Pull Request:**
+   Após o push, você verá a opção de abrir um Pull Request (PR) no GitHub.
+   Clique em "Compare & pull request" e preencha as informações necessárias, explicando as mudanças que você fez e o motivo delas.
+
+8. **Revisão e Merge:**
+Seu Pull Request será revisado. Se tudo estiver de acordo com as diretrizes do projeto, ele será aprovado e mesclado por mim. Caso precise de alguma modificação, entrarei em contato através dos comentários no Pull Request.
+
+9. **Mantenha-se Atualizado:**
+Se você planeja contribuir regularmente, é importante manter o seu fork atualizado com o repositório original. Você pode fazer isso usando o seguinte comando:
+   ```bash
+   git fetch upstream
+   git merge upstream/main
+   ```
+
+**Dica:** 
+* **Seja claro e conciso:** Use descrições curtas e objetivas.
+* **Respeite os direitos autorais:** Cite as fontes das informações, se necessário.
+* **Mantenha-se atualizado:** Faça merge do `main` regularmente.
+
+**Agradecemos sua colaboração!** 
+
+## **Melhorias e Considerações:**
+
+* **Formatação:** Utilize o Markdown para criar listas, negrito, itálico e outros elementos visuais.
+* **Clareza:** Simplifique a linguagem e use exemplos práticos.
+* **Incentivo:** Destaque os benefícios da colaboração e agradeça aos contribuidores.
+* **Guia de Estilo:** Crie um guia de estilo para manter a consistência na formatação.
+* **Automatização:** Explore ferramentas como GitHub Actions para automatizar tarefas como testes e formatação.
+* **Emojis:** Use emojis para tornar o README mais divertido e engajador.
+
+**Vamos juntos criar a melhor lista de servidores Discord!** 🤝
+
+
+
