@@ -1,7 +1,10 @@
-# Servidores tech do Discord
+# Desvende o universo dos servidores Discord para devs!
 <img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20CONSTRUCAO-green">
 
-<p>O Discord é uma plataforma de comunicação gratuita que permite que as pessoas conversem através de mensagens de texto, chamadas de voz e de vídeo. Temos vários servidores interessantes sobre tecnologia e programação no Brasil e no Mundo, com canais muito úteis para aprendizados, networking, vagas, etc. Reuni aqui os servidores que participo.</p>
+<p>Após muita pesquisa, criei um repositório no GitHub que te conecta com as comunidades mais quentes do momento.</p>
+<p>Encontre a comunidade perfeita pra você: compartilhe seus projetos, tire suas dúvidas, ajude os outros, encontre vagas e materiais de estudos, descubra eventos ou simplesmente faça novos amigos!</p>
+
+<p>O Discord é uma plataforma de comunicação gratuita que permite que as pessoas conversem através de mensagens de texto, chamadas de voz e de vídeo. Temos vários servidores interessantes sobre tecnologia e programação no Brasil e no Mundo, com canais muito úteis para aprendizados, networking, vagas, etc.</p>
 
 ## 🇧🇷 Brasileiros 🇧🇷
 
