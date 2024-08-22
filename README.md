@@ -1,10 +1,11 @@
 # Desvende o universo dos servidores Discord para devs!
-<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20CONSTRUCAO-green">
+<img alt="Status Em Desenvolvimento" src="https://img.shields.io/badge/STATUS-EM%20CONSTANTE%20ATUALIZACAO-green">
 
 <p>Após muita pesquisa, criei um repositório no GitHub que te conecta com as comunidades mais quentes do momento.</p>
 <p>Encontre a comunidade perfeita pra você: compartilhe seus projetos, tire suas dúvidas, ajude os outros, encontre vagas e materiais de estudos, descubra eventos ou simplesmente faça novos amigos!</p>
-
 <p>O Discord é uma plataforma de comunicação gratuita que permite que as pessoas conversem através de mensagens de texto, chamadas de voz e de vídeo. Temos vários servidores interessantes sobre tecnologia e programação no Brasil e no Mundo, com canais muito úteis para aprendizados, networking, vagas, etc.</p>
+<p>Conhece algum servidor de tecnologia do Discord que não está na lista? Ajude o projeto colaborando com sua recomendação! No final desse arquivo, tem o passo a passo de como fazer. Seu nome aparecerá na lista de Agradecimentos aos Colaboradores! 🤝🙋‍♂️💡</p>
+<p>⭐ E se esse conteúdo ajudou, favorite esse repositório! ⭐ </p>
 
 ## 🇧🇷 Brasileiros 🇧🇷
 
@@ -134,11 +135,12 @@ Se você planeja contribuir regularmente, é importante manter o seu fork atuali
 * **Formatação:** Utilize o Markdown para criar listas, negrito, itálico e outros elementos visuais.
 * **Clareza:** Simplifique a linguagem e use exemplos práticos.
 * **Incentivo:** Destaque os benefícios da colaboração e agradeça aos contribuidores.
-* **Guia de Estilo:** Crie um guia de estilo para manter a consistência na formatação.
-* **Automatização:** Explore ferramentas como GitHub Actions para automatizar tarefas como testes e formatação.
 * **Emojis:** Use emojis para tornar o README mais divertido e engajador.
 
 **Vamos juntos criar a melhor lista de servidores Discord!** 🤝
 
+---
 
+# AGRADECIMENTOS AOS COLABORADORES 🤝
 
+<p>Seja o primeiro colaborador e tenha seu nome aqui!💖</p>
