@@ -126,7 +126,6 @@ Se você planeja contribuir regularmente, é importante manter o seu fork atuali
 **Dica:** 
 * **Seja claro e conciso:** Use descrições curtas e objetivas.
 * **Respeite os direitos autorais:** Cite as fontes das informações, se necessário.
-* **Mantenha-se atualizado:** Faça merge do `main` regularmente.
 
 **Agradecemos sua colaboração!** 
 
